@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-
 // extends React.Component -> but I moved it to { Component }
 
 class SearchBar extends Component {
